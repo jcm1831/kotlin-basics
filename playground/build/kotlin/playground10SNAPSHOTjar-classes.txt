@@ -1,1 +1,0 @@
-/home/manuel/Desktop/kotlin_basics/playground/build/classes/kotlin/main/MainKt$findLongestWord$1.class:/home/manuel/Desktop/kotlin_basics/playground/build/classes/kotlin/main/MainKt$getNumbersCount$1.class:/home/manuel/Desktop/kotlin_basics/playground/build/classes/kotlin/main/MainKt.class
