@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun compose(g: (Int) -> Int, h: (Int) -> Int): (Int) -> Int {
+        TODO("Provide implementation")
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6161#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 18 Mar 2023 08:38:25 UTC"
+record: -1
+submission_language: kotlin

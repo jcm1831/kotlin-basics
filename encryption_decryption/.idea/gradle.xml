@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption (Kotlin)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption (Kotlin)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption (Kotlin)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of characters" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of integers" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Printing the last element" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/The first element of an array" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The minimum value of N numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Function composition" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Capturing variable" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Function composition" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Max" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Polynomial" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/At least one" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Job" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Not in range" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Within both ranges" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Working hours" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Help the Lord Commander" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Yet another array" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Concatenation" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Correct ways to create a string" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Fix it" />
+            <option value="$PROJECT_DIR$/Topics/String basics/I'm learning Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/String basics/JSON" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Change program arguments" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Comprehension" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Using arguments" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Cause an exception" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Theory" />
+            <option value="$PROJECT_DIR$/Topics/When expression/FTN-Numbers" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Just checking" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Shape" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Strings as objects" />
+            <option value="$PROJECT_DIR$/Topics/When expression/The army of units" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
