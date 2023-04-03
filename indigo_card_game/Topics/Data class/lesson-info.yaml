@@ -1,0 +1,6 @@
+content:
+- Theory
+- Illegal to override
+- toString() modification
+- Allowance for functions
+- copy() usage

@@ -1,0 +1,154 @@
+<changelist name="Changes" date="1680510566627" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" />
+  <option name="DESCRIPTION" value="Changes" />
+  <binary>
+    <option name="BEFORE_PATH" value="../encryption_decryption/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="AFTER_PATH" value="../encryption_decryption/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/buildOutputCleanup.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../unit_converter/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="AFTER_PATH" value="../unit_converter/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/buildOutputCleanup1.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="Indigo Card Game/task/build/classes/kotlin/main/indigo/CardCollection.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/CardCollection.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../encryption_decryption/.gradle/7.3.3/checksums/checksums.lock" />
+    <option name="AFTER_PATH" value="../encryption_decryption/.gradle/7.3.3/checksums/checksums.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/checksums.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../encryption_decryption/.gradle/7.5.1/checksums/checksums.lock" />
+    <option name="AFTER_PATH" value="../encryption_decryption/.gradle/7.5.1/checksums/checksums.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/checksums1.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../unit_converter/.gradle/7.3.3/checksums/checksums.lock" />
+    <option name="AFTER_PATH" value="../unit_converter/.gradle/7.3.3/checksums/checksums.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/checksums2.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../encryption_decryption/.gradle/7.5.1/executionHistory/executionHistory.bin" />
+    <option name="AFTER_PATH" value="../encryption_decryption/.gradle/7.5.1/executionHistory/executionHistory.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/executionHistory.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../unit_converter/.gradle/7.3.3/executionHistory/executionHistory.bin" />
+    <option name="AFTER_PATH" value="../unit_converter/.gradle/7.3.3/executionHistory/executionHistory.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/executionHistory1.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../encryption_decryption/.gradle/7.5.1/executionHistory/executionHistory.lock" />
+    <option name="AFTER_PATH" value="../encryption_decryption/.gradle/7.5.1/executionHistory/executionHistory.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/executionHistory.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../unit_converter/.gradle/7.3.3/executionHistory/executionHistory.lock" />
+    <option name="AFTER_PATH" value="../unit_converter/.gradle/7.3.3/executionHistory/executionHistory.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/executionHistory1.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../encryption_decryption/.gradle/7.5.1/fileHashes/fileHashes.bin" />
+    <option name="AFTER_PATH" value="../encryption_decryption/.gradle/7.5.1/fileHashes/fileHashes.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/fileHashes.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../unit_converter/.gradle/7.3.3/fileHashes/fileHashes.bin" />
+    <option name="AFTER_PATH" value="../unit_converter/.gradle/7.3.3/fileHashes/fileHashes.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/fileHashes1.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../encryption_decryption/.gradle/7.5.1/fileHashes/fileHashes.lock" />
+    <option name="AFTER_PATH" value="../encryption_decryption/.gradle/7.5.1/fileHashes/fileHashes.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/fileHashes.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../unit_converter/.gradle/7.3.3/fileHashes/fileHashes.lock" />
+    <option name="AFTER_PATH" value="../unit_converter/.gradle/7.3.3/fileHashes/fileHashes.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/fileHashes1.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="Indigo Card Game/task/build/tmp/test/jar_extract_243567648795760735_tmp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_243567648795760735_tmp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="Indigo Card Game/task/build/tmp/test/jar_extract_1541995452743421002_tmp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_1541995452743421002_tmp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="Indigo Card Game/task/build/tmp/test/jar_extract_1647791498579039848_tmp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_1647791498579039848_tmp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="Indigo Card Game/task/build/tmp/test/jar_extract_4448888455103899705_tmp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_4448888455103899705_tmp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="Indigo Card Game/task/build/tmp/test/jar_extract_11117167083182764361_tmp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_11117167083182764361_tmp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="Indigo Card Game/task/build/tmp/test/jar_extract_13985840889350107828_tmp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_13985840889350107828_tmp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="Indigo Card Game/task/build/tmp/test/jar_extract_15466618412192024724_tmp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_15466618412192024724_tmp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="Indigo Card Game/task/build/tmp/test/jar_extract_17121954762393377005_tmp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_17121954762393377005_tmp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="Indigo Card Game/task/build/tmp/test/jar_extract_18350829364142048590_tmp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_18350829364142048590_tmp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="Indigo Card Game/task/build/classes/kotlin/main/indigo/Players.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Players.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../encryption_decryption/.gradle/7.3.3/checksums/sha1-checksums.bin" />
+    <option name="AFTER_PATH" value="../encryption_decryption/.gradle/7.3.3/checksums/sha1-checksums.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/sha1-checksums.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../encryption_decryption/.gradle/7.5.1/checksums/sha1-checksums.bin" />
+    <option name="AFTER_PATH" value="../encryption_decryption/.gradle/7.5.1/checksums/sha1-checksums.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/sha1-checksums1.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../unit_converter/.gradle/7.3.3/checksums/sha1-checksums.bin" />
+    <option name="AFTER_PATH" value="../unit_converter/.gradle/7.3.3/checksums/sha1-checksums.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/sha1-checksums2.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="Indigo Card Game/task/build/classes/kotlin/main/indigo/States.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/States.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".idea/frameworkLessonHistory/storage.storageData" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/storage.storageData" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".idea/frameworkLessonHistory/storage.storageRecordIndex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/storage.storageRecordIndex" />
+  </binary>
+</changelist>

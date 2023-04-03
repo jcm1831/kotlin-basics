@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6497f7e-451b-45b5-b989-415d7642e912" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/CardCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/Players.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/States.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/buildOutputCleanup1.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/checksums1.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/checksums2.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/executionHistory1.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/executionHistory1.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/fileHashes1.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/fileHashes1.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_11117167083182764361_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_13985840889350107828_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_1541995452743421002_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_15466618412192024724_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_1647791498579039848_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_17121954762393377005_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_18350829364142048590_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_243567648795760735_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/jar_extract_4448888455103899705_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/sha1-checksums1.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/sha1-checksums2.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/Card deck symbols/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/Card deck symbols/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/Player VS Computer/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/Player VS Computer/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/The game is started/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/The game is started/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/The game logic/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/The game logic/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/Virtual card deck/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/Virtual card deck/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin/main/META-INF/Indigo_Card_Game-task.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin/main/indigo/Card.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin/main/indigo/CardDeck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin/main/indigo/CardsOnTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin/main/indigo/ComputerPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin/main/indigo/GameStates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin/main/indigo/HumanPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin/main/indigo/IndigoCardGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin/main/indigo/MainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin/main/indigo/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin/main/indigo/ScoreBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin/test/CardGameTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin/test/ErrorData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin/test/IndigoCardGameTestKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin/test/META-INF/Indigo_Card_Game-task.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/reports/tests/test/classes/CardGameTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/test-results/test/TEST-CardGameTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/tmp/test/jar_extract_10574476095347289807_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/tmp/test/jar_extract_1175910729606653458_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/tmp/test/jar_extract_11834874626967537757_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/tmp/test/jar_extract_12148659010031845367_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/tmp/test/jar_extract_1247526073906420088_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/tmp/test/jar_extract_13221979779519583622_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/tmp/test/jar_extract_3491406557188368114_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/tmp/test/jar_extract_3610948809711333384_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/tmp/test/jar_extract_4038127073622924011_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/tmp/test/jar_extract_4643949893675282671_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/tmp/test/jar_extract_6177795905848466292_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/tmp/test/jar_extract_6471908376719075245_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/build/tmp/test/jar_extract_8754701715513348533_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/META-INF/Indigo_Card_Game-task.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/indigo/Card.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/indigo/CardCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/indigo/CardDeck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/indigo/CardsOnTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/indigo/ComputerPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/indigo/GameStates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/indigo/HumanPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/indigo/IndigoCardGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/indigo/MainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/indigo/Options$Factory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/indigo/Options.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/indigo/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/indigo/Players.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/indigo/ScoreBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indigo Card Game/task/out/production/classes/indigo/States.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data class/Allowance for functions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data class/Allowance for functions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data class/Illegal to override/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data class/Illegal to override/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data class/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data class/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data class/copy() usage/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data class/copy() usage/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data class/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data class/toString() modification/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data class/toString() modification/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data types/Equivalent/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data types/Equivalent/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data types/Fix the program/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data types/Fix the program/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data types/How are correct to declare a variable/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data types/How are correct to declare a variable/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data types/Select correct statements about types/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data types/Select correct statements about types/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data types/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data types/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Data types/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring classes/Area printer/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring classes/Area printer/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring classes/Complex numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring classes/Complex numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring classes/Composition/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring classes/Composition/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring classes/New planet/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring classes/New planet/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring classes/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring classes/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring classes/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/Get last digit/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/Get last digit/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/Get last digit/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/Get last digit/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/How to declare a function/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/How to declare a function/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/How to declare a function/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/How to declare a function/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/Return type/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/Return type/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/Return type/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/Return type/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/The square of a number/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/The square of a number/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/The square of a number/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/The square of a number/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/The sum of three numbers/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/The sum of three numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/The sum of three numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/The sum of three numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring functions/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Default arguments/Invocations/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Default arguments/Invocations/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Default arguments/Polynomial/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Default arguments/Polynomial/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Default arguments/Print Username/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Default arguments/Print Username/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Default arguments/Summation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Default arguments/Summation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Default arguments/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Default arguments/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Default arguments/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/Equality/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/Equality/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/How to compare/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/How to compare/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/Kings of Sweden/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/Kings of Sweden/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/Referential equality/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/Referential equality/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/The same object/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/The same object/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/It can't be zero/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/It can't be zero/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Syntax issues/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Syntax issues/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/Nested for-loops/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/Nested for-loops/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/The minimum value of N numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/The minimum value of N numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/The roots of equation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/The roots of equation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/ArithmeticException/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/ArithmeticException/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/IndexOutOfBoundsException/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/IndexOutOfBoundsException/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Constructing a hierarchy/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Constructing a hierarchy/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Create a child class/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Create a child class/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Statements about inheritance/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Statements about inheritance/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Trees/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Trees/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/Correct jumping/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/Correct jumping/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/First digit/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/First digit/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/Getting letters from the Alphabet/out/production/classes/META-INF/Topics-Jumps_and_returns-Getting_letters_from_the_Alphabet.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/Getting letters from the Alphabet/out/production/classes/MainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/Getting letters from the Alphabet/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/Getting letters from the Alphabet/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/Mixing/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/Mixing/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/Unique characters/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/Unique characters/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/Whole truth about continue/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/Whole truth about continue/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Jumps and returns/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Indexes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Indexes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Number of occurrences/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Number of occurrences/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Sum of numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Sum of numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Member functions/Bugs in a vinyl store/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Member functions/Bugs in a vinyl store/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Member functions/Facts about member functions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Member functions/Facts about member functions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Member functions/Patient needs a doctor/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Member functions/Patient needs a doctor/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Member functions/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Member functions/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Member functions/Volume of a cube/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Member functions/Volume of a cube/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Member functions/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Adding/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Adding/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/MutableList properties/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/MutableList properties/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/New List/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/New List/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Transformation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Transformation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Named arguments/Correct invocations/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Named arguments/Correct invocations/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Named arguments/Deposit/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Named arguments/Deposit/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Named arguments/Perimeter/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Named arguments/Perimeter/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Named arguments/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Named arguments/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Named arguments/URL/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Named arguments/URL/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Named arguments/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Declare null/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Declare null/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Declare null/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Declare null/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Mixed nullable/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Mixed nullable/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Mixed nullable/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Mixed nullable/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Null or not null/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Null or not null/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Null or not null/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Null or not null/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Safe call/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Safe call/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Safe call/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Safe call/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/What's your name/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/What's your name/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/What's your name/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/What's your name/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Nullable and non-nullable types/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Application/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Application/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Find a keyword/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Find a keyword/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/I like Kotlin/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/I like Kotlin/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Identifier/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Identifier/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Multiple statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Multiple statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/The eternal truth/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/The eternal truth/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Property accessors/City population/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Property accessors/City population/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Property accessors/Facts about getters/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Property accessors/Facts about getters/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Property accessors/Field access/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Property accessors/Field access/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Property accessors/Property syntax/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Property accessors/Property syntax/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Property accessors/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Property accessors/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Property accessors/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Decrement in loops/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Decrement in loops/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Increment in loop/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Increment in loop/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Kotlin x5/out/production/classes/META-INF/Topics-Repeating_blocks-Kotlin_x5.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Kotlin x5/out/production/classes/MainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Kotlin x5/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Kotlin x5/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Repeat by value/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Repeat by value/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Size of parts/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Size of parts/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Scopes/Code review/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Scopes/Code review/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Scopes/Cyclist/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Scopes/Cyclist/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Scopes/Open chest in Hogwarts/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Scopes/Open chest in Hogwarts/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Scopes/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Scopes/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Scopes/Unlucky one/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Scopes/Unlucky one/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Scopes/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Secondary constructor/Cat House/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Secondary constructor/Cat House/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Secondary constructor/Frozen desserts/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Secondary constructor/Frozen desserts/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Secondary constructor/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Secondary constructor/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Secondary constructor/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard output/Amount on the account/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard output/Amount on the account/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard output/Correct the code/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard output/Correct the code/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard output/First, second, third/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard output/First, second, third/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard output/From 0 to 9/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard output/From 0 to 9/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard output/Printing texts/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard output/Printing texts/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard output/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard output/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard output/We need to learn Kotlin/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard output/We need to learn Kotlin/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard output/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Taming exceptions/Practice/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Taming exceptions/Practice/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Taming exceptions/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Taming exceptions/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Taming exceptions/Too big for us/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Taming exceptions/Too big for us/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Taming exceptions/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type system/Can it go through/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type system/Can it go through/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type system/String length/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type system/String length/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type system/Super super type/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type system/Super super type/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type system/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type system/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type system/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/When expression/FTN-Numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/When expression/FTN-Numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/When expression/Floor-space of the room/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/When expression/Floor-space of the room/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/When expression/Just checking/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/When expression/Just checking/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/When expression/Shape/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/When expression/Shape/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/When expression/Strings as objects/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/When expression/Strings as objects/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/When expression/The army of units/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/When expression/The army of units/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/When expression/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/When expression/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/When expression/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/toString()/Espresso/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/toString()/Espresso/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/toString()/Inheritance/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/toString()/Inheritance/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/toString()/Number of cups/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/toString()/Number of cups/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/toString()/Tea/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/toString()/Tea/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/toString()/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/toString()/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/toString()/User Information/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/toString()/User Information/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/toString()/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5a0609b8-f58c-4a3f-8194-b3e32335e82f" />
+        <option name="url" value="https://github.com/jcm1831/kotlin-basics" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="p6ypeelg" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2NGf8QyCbUYUeD21DovjzTSVUU4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/manuel/Desktop/kotlin_basics/indigo_card_game&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.14729571&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;show.inlinked.gradle.project.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="indigo_card_game.Topics-Jumps_and_returns-Getting_letters_from_the_Alphabet.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indigo.MainKt" />
+      <module name="indigo_card_game.Indigo_Card_Game-task.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.MainKt (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6497f7e-451b-45b5-b989-415d7642e912" name="Changes" comment="" />
+      <created>1679295179792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679295179792</updated>
+      <workItem from="1679295181624" duration="5194000" />
+      <workItem from="1679338344927" duration="491000" />
+      <workItem from="1679368071541" duration="6100000" />
+      <workItem from="1679474268928" duration="1682000" />
+      <workItem from="1679551338302" duration="1895000" />
+      <workItem from="1679634918485" duration="1076000" />
+      <workItem from="1679726989048" duration="1698000" />
+      <workItem from="1679808891399" duration="2113000" />
+      <workItem from="1679841790323" duration="1695000" />
+      <workItem from="1679852773161" duration="554000" />
+      <workItem from="1679894201864" duration="5694000" />
+      <workItem from="1679984905419" duration="1053000" />
+      <workItem from="1680079243015" duration="1252000" />
+      <workItem from="1680151464791" duration="1469000" />
+      <workItem from="1680152947018" duration="800000" />
+      <workItem from="1680153759204" duration="228000" />
+      <workItem from="1680154013322" duration="718000" />
+      <workItem from="1680329793023" duration="2529000" />
+      <workItem from="1680332335184" duration="2061000" />
+      <workItem from="1680335107138" duration="16391000" />
+      <workItem from="1680362281273" duration="2804000" />
+      <workItem from="1680415103558" duration="22358000" />
+      <workItem from="1680498483009" duration="9925000" />
+      <workItem from="1680510646435" duration="213000" />
+      <workItem from="1680510889660" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
