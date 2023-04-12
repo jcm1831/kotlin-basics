@@ -127,6 +127,10 @@
             <option value="$PROJECT_DIR$/Topics/Taming exceptions/Practice" />
             <option value="$PROJECT_DIR$/Topics/Taming exceptions/Theory" />
             <option value="$PROJECT_DIR$/Topics/Taming exceptions/Too big for us" />
+            <option value="$PROJECT_DIR$/Topics/Type cast and smart cast/Converting to string" />
+            <option value="$PROJECT_DIR$/Topics/Type cast and smart cast/Replace non-string literal" />
+            <option value="$PROJECT_DIR$/Topics/Type cast and smart cast/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type cast and smart cast/Writing a string counter" />
             <option value="$PROJECT_DIR$/Topics/Type system/Can it go through" />
             <option value="$PROJECT_DIR$/Topics/Type system/String length" />
             <option value="$PROJECT_DIR$/Topics/Type system/Super super type" />

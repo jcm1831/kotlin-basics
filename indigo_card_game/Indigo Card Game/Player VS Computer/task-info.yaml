@@ -1,8 +1,5 @@
 type: edu
 files:
-- name: src/indigo/ScoreBoard.kt
-  visible: true
-  learner_created: true
 - name: src/indigo/CardCollection.kt
   visible: true
   learner_created: true
@@ -22,6 +19,9 @@ files:
   visible: true
   learner_created: true
 - name: src/indigo/Main.kt
+  visible: true
+  learner_created: true
+- name: src/indigo/ScoreBoard.kt
   visible: true
   learner_created: true
 feedback_link: https://hyperskill.org/learn/step/16512#comment
