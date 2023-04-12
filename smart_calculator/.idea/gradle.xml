@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/ArrayDeque/Hacking the Matrix" />
+            <option value="$PROJECT_DIR$/Topics/ArrayDeque/The right result" />
+            <option value="$PROJECT_DIR$/Topics/ArrayDeque/Theory" />
+            <option value="$PROJECT_DIR$/Topics/ArrayDeque/Which method is correct" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Division" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Max" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Percentage" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Statements" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Commonly Used Regex/Groups syntax" />
+            <option value="$PROJECT_DIR$/Topics/Commonly Used Regex/Pa" />
+            <option value="$PROJECT_DIR$/Topics/Commonly Used Regex/Phones without 9" />
+            <option value="$PROJECT_DIR$/Topics/Commonly Used Regex/Right group" />
+            <option value="$PROJECT_DIR$/Topics/Commonly Used Regex/Slash one" />
+            <option value="$PROJECT_DIR$/Topics/Commonly Used Regex/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Find the error" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Map/Comprehension" />
+            <option value="$PROJECT_DIR$/Topics/Map/Map creation" />
+            <option value="$PROJECT_DIR$/Topics/Map/Sum of values" />
+            <option value="$PROJECT_DIR$/Topics/Map/The truth is" />
+            <option value="$PROJECT_DIR$/Topics/Map/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Adding" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Banana" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Methods of Mutable List" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/MutableList properties" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/New List" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Transformation" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/About Mutable Map" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Exam marks" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/The output of two maps" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Clothing problem" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Improve your vehicle" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Nested or inner" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Board game basics  Game" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Keyword" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Me" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Properties" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Compression algorithm" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Convert a date" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value (1)" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Generating passwords" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexps in use/Aaaaaaa to a" />
+            <option value="$PROJECT_DIR$/Topics/Regexps in use/Removing chords" />
+            <option value="$PROJECT_DIR$/Topics/Regexps in use/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexps in use/Web colors" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Can you" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Escapism" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Matching pattern" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/The dot" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Code review" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Cyclist" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Open chest in Hogwarts" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Power and scopes" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Unlucky one" />
+            <option value="$PROJECT_DIR$/Topics/Stack/List of students' grades" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Match functions and results" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Which method is correct" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Change program arguments" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Comprehension" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Using arguments" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Converter to Double" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Correct code" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Correct statements" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Exception message" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Now I get it" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

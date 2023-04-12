@@ -1,0 +1,17 @@
+content:
+- Nested and inner classes
+- Processing strings
+- Object declarations
+- Debugging techniques
+- The try-catch statement
+- Scopes
+- Regexps
+- Regexps in use
+- The main() function
+- Map
+- Mutable Map
+- Commonly Used Regex
+- Mutable List
+- ArrayDeque
+- Stack
+- BigInteger

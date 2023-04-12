@@ -1,0 +1,46 @@
+<h2>Stack</h2>
+<div class="step-text">
+<p>When we try to solve a task with our code using collections, it is important to know what requirements we want to follow. Many collections have an implemented behavior, which makes it easy for you to work with them. Two widely used behaviors are FIFO (<a href="https://en.wikipedia.org/wiki/Queue_(abstract_data_type)" rel="noopener noreferrer nofollow" target="_blank">Queue collections</a>) and LIFO (<a href="https://en.wikipedia.org/wiki/Stack_(abstract_data_type)" rel="noopener noreferrer nofollow" target="_blank">Stack collections</a>).</p><p>In this topic, we will learn how to work with stacks (LIFO strategy) and see how they can help us improve our code and resolve certain code problems.</p><h5 id="collection-behaviors">Collection behaviors</h5><p>There are two types of collections with their specific behavior, which you will use very often in your tasks: FIFO and LIFO.</p><ul><li><p><strong>FIFO</strong> behavior – the <strong>First-In-First-Out</strong> principle. In such collections, data is always added to the end and removed always from the beginning. This collection is called <strong>queue</strong>. You can see that pattern whenever you go to a supermarket and stand in a checkout queue: the first person to arrive will always be the first to be served. Its fundamental methods are <strong>enqueue</strong> (add at the end) and <strong>dequeue</strong> (remove from the beginning).</p></li><li><p><strong>LIFO</strong> behavior – the <strong>Last-In-First-Out</strong> principle. This collection is called <strong>stack. </strong>According to its principle, the last element to be added will be the first to be removed: that is, the elements are stacked. You can consider an example of putting your books into a box: you put them one on top of the other, and you will first take the top one when getting them out of of the box. Its fundamental methods are <code class="language-kotlin">push</code> (add at the top), <code class="language-kotlin">pop</code> (remove from the top), and <code class="language-kotlin">peek</code>, which returns the top element.</p></li></ul><h5 id="stack">Stack</h5><p>In the JVM, the <code class="language-kotlin">Stack</code> class models and implements the <code class="language-kotlin">Stack</code> data structure using the LIFO strategy (Last-In-First-Out). It is a Java Class; it does not belong to pure Kotlin collections, so you must import it to be able to use it (<code class="language-kotlin">import java.util.stack</code>). If you want an alternative, a collection based on Kotlin, you can use <code class="language-kotlin">ArrayDeque</code>.</p><p>When you add an item to a stack, you place it on top of the stack. When you remove an item from a stack, you always remove the top-most item. It extends the class <code class="language-kotlin">Vector</code> with five operations that allow a vector to be treated as a stack. Other existing methods are inherited from <code class="language-kotlin">Vector</code>.</p><p>Let's see the specific stack operations you can use in your code:</p><ul><li><p><code class="language-kotlin">push()</code>: this method places an element at the top of the stack.</p></li><li><p><code class="language-kotlin">pop()</code>: this methods removes the object at the top of the stack and returns that object. It will throw <code class="language-kotlin">EmptyStackException</code> if this stack is empty.</p></li><li><p><code class="language-kotlin">peek()</code>: it retrieves or fetches the first/top element of the stack without removing it from the stack. It will throw <code class="language-kotlin">EmptyStackException</code> if this stack is empty.  </p></li><li><p><code class="language-kotlin">empty()</code>: it returns true if there is nothing at the top of the stack; else, it will return return false.</p></li><li><p><code class="language-kotlin">search()</code>: it returns the position of the element from the top of the stack; else, it will return -1.</p></li></ul><p>Let's see an example of this kind of collection.</p><pre><code class="language-kotlin">import java.util.*
+
+fun main() {
+    val stack = Stack&lt;Int&gt;()
+
+    // push at top
+    stack.push(1)
+    stack.push(2)
+    stack.push(3)
+
+    println(stack) // [1, 2, 3]
+
+    // pop from top
+    stack.pop()
+
+    println(stack) // [1, 2]
+
+    // peek at top
+    println(stack.peek()) // 2
+
+    println(stack) // [1, 2]
+
+    // search for element
+    println(stack.search(1)) // 2
+    println(stack.search(9)) // -1
+
+    // is empty?
+    println(stack.empty()) // false
+    
+}</code></pre><p>Also, we can transform a <code class="language-kotlin">List</code> into a <code class="language-kotlin">Stack</code> and operate with it, using <code class="language-kotlin">pop()</code>. The following example prints a list of names using the LIFO strategy:</p><pre><code class="language-kotlin">import java.util.*
+
+fun main() {
+    
+    val listOfNames = listOf("John", "Jane", "Mary", "Peter", "Paul", "George")
+    val stackOfNames = Stack&lt;String&gt;()
+
+    stackOfNames.addAll(listOfNames)
+    while (stackOfNames.isNotEmpty()) {
+        print(stackOfNames.pop())
+        print(" ")
+    }
+    // George Paul Peter Mary Jane John 
+}</code></pre><p>Remember: if you need the FIFO and LIFO behavior, whether both or just one of them, it is better to use <code class="language-kotlin">ArrayDeque</code> because it's much more efficient than Java <code class="language-kotlin">Stack</code> or <code class="language-kotlin">List</code> and it is a 100% pure Kotlin collection. Java <code class="language-kotlin">Stack</code> inherits from the <code class="language-kotlin">Vector</code> class. <code class="language-kotlin">Vector</code> implements a growable array of objects; it is very similar to <code class="language-kotlin">ArrayList</code>, but <code class="language-kotlin">Vector</code> is <strong>synchronized,</strong> which means that in a multithreading environment, it holds other threads in a runnable or non-runnable state until the current thread releases the lock of the object to perform an operation. On the other hand, the <code class="language-kotlin">Vector</code> class and some of its methods are now obsolete and have been replaced by <code class="language-kotlin">ArrayDeque</code>, which is better adapted to FIFO/LIFO strategies and is more optimized for concurrent and multithreaded environments.</p><h5 id="conclusion">Conclusion</h5><p>In this topic, we have learned how to use <code class="language-kotlin">Stack</code> to manage collections by simulating the LIFO (Last-In-First-Out) behavior: when you add an item, it is put at the top, and when you remove an item, it will be removed from the top. The Java <code class="language-kotlin">Stack</code> class will help you accomplish these tasks in your projects.</p><p>Now is the time to do some tasks to check what you have learned. Are you ready?</p>
+</div>
