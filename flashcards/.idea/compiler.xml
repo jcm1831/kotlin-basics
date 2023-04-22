@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="flashcards.Flashcards__Kotlin_-task-build-classes-java.main" target="11" />
+      <module name="flashcards.Flashcards__Kotlin_-task-build-classes-kotlin.main" target="11" />
+      <module name="flashcards.Flashcards__Kotlin_-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="flashcards.Flashcards__Kotlin_-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="flashcards.Flashcards__Kotlin_-task-build-reports-tests.main" target="11" />
+      <module name="flashcards.Flashcards__Kotlin_-task-build-test-results.main" target="11" />
+      <module name="flashcards.Flashcards__Kotlin_-task-build-tmp.main" target="11" />
+      <module name="flashcards.Flashcards__Kotlin_-task.main" target="11" />
+      <module name="flashcards.Topics-Delegate-A_delegate_from_within.main" target="11" />
+      <module name="flashcards.Topics-Delegate-And..._what_is_the_delegate_used_to_do.main" target="11" />
+      <module name="flashcards.Topics-Delegate-Choosing_the_right_delegate,_with_a_bit_of_arithmetics_mixed_in.main" target="11" />
+      <module name="flashcards.Topics-Delegate-Hello,_Delegate__Or_are_you_Kotlin.main" target="11" />
+      <module name="flashcards.Topics-Delegate-Theory.main" target="11" />
+      <module name="flashcards.Topics-Floating-point_types-Celsius_to_Fahrenheit.main" target="11" />
+      <module name="flashcards.Topics-Floating-point_types-Distance.main" target="11" />
+      <module name="flashcards.Topics-Floating-point_types-Liquid_pressure.main" target="11" />
+      <module name="flashcards.Topics-Floating-point_types-Theory.main" target="11" />
+      <module name="flashcards.Topics-Floating-point_types-Uses_the_Double_in_the_calculations.main" target="11" />
+      <module name="flashcards.Topics-Generic_functions-Advantages_of_generics.main" target="11" />
+      <module name="flashcards.Topics-Generic_functions-Extracting_info.main" target="11" />
+      <module name="flashcards.Topics-Generic_functions-Theory.main" target="11" />
+      <module name="flashcards.Topics-Generic_functions-Understanding_generics.main" target="11" />
+      <module name="flashcards.Topics-Generic_functions-What_is_a_generic_function.main" target="11" />
+      <module name="flashcards.Topics-Generics_and_Any-Correct_the_usage_of_a_non-generic_class.main" target="11" />
+      <module name="flashcards.Topics-Generics_and_Any-Instance_without_type_argument.main" target="11" />
+      <module name="flashcards.Topics-Generics_and_Any-Make_it_generic.main" target="11" />
+      <module name="flashcards.Topics-Generics_and_Any-Theory.main" target="11" />
+      <module name="flashcards.Topics-Generics_and_Any-Write_a_generic_function.main" target="11" />
+      <module name="flashcards.Topics-Interface_composition-Another_conflicting_interface.main" target="11" />
+      <module name="flashcards.Topics-Interface_composition-Compositional_mystery_of_Red_Circle.main" target="11" />
+      <module name="flashcards.Topics-Interface_composition-Resolve_a_conflict_by_any_means_necessary.main" target="11" />
+      <module name="flashcards.Topics-Interface_composition-Theory.main" target="11" />
+      <module name="flashcards.Topics-Interface_composition-Wait,_but_why_would_we_use_it.main" target="11" />
+      <module name="flashcards.Topics-Introduction_to_generic_programming-Learning_on_mistakes.main" target="11" />
+      <module name="flashcards.Topics-Introduction_to_generic_programming-Match_type_parameter_names.main" target="11" />
+      <module name="flashcards.Topics-Introduction_to_generic_programming-Theory.main" target="11" />
+      <module name="flashcards.Topics-Nullable_and_non-nullable_types-Declare_null.main" target="11" />
+      <module name="flashcards.Topics-Nullable_and_non-nullable_types-Line_length.main" target="11" />
+      <module name="flashcards.Topics-Nullable_and_non-nullable_types-Mixed_nullable.main" target="11" />
+      <module name="flashcards.Topics-Nullable_and_non-nullable_types-Null_or_not_null.main" target="11" />
+      <module name="flashcards.Topics-Nullable_and_non-nullable_types-Safe_call.main" target="11" />
+      <module name="flashcards.Topics-Nullable_and_non-nullable_types-Theory.main" target="11" />
+      <module name="flashcards.Topics-Nullable_and_non-nullable_types-What's_your_name.main" target="11" />
+      <module name="flashcards.Topics-The_Math_library-Compare_the_results.main" target="11" />
+      <module name="flashcards.Topics-The_Math_library-Fourth_root.main" target="11" />
+      <module name="flashcards.Topics-The_Math_library-Sine_and_cosine.main" target="11" />
+      <module name="flashcards.Topics-The_Math_library-The_angle_between_vectors.main" target="11" />
+      <module name="flashcards.Topics-The_Math_library-Theory.main" target="11" />
+      <module name="flashcards.Topics-Type_aliases-Correct_type_aliases.main" target="11" />
+      <module name="flashcards.Topics-Type_aliases-Correct_usage.main" target="11" />
+      <module name="flashcards.Topics-Type_aliases-Don't_be_afraid_of_snakes_and_correct_mistakes.main" target="11" />
+      <module name="flashcards.Topics-Type_aliases-Opening_boxes.main" target="11" />
+      <module name="flashcards.Topics-Type_aliases-Theory.main" target="11" />
+      <module name="flashcards.Topics-Type_Bounds-Get_bigger.main" target="11" />
+      <module name="flashcards.Topics-Type_Bounds-Theory.main" target="11" />
+      <module name="flashcards.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
