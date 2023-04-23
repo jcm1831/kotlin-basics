@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="search_engine.Simple_Search_Engine__Kotlin_-task-build-classes-java.main" target="11" />
+      <module name="search_engine.Simple_Search_Engine__Kotlin_-task-build-classes-kotlin.main" target="11" />
+      <module name="search_engine.Simple_Search_Engine__Kotlin_-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="search_engine.Simple_Search_Engine__Kotlin_-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="search_engine.Simple_Search_Engine__Kotlin_-task-build-reports-tests.main" target="11" />
+      <module name="search_engine.Simple_Search_Engine__Kotlin_-task-build-test-results.main" target="11" />
+      <module name="search_engine.Simple_Search_Engine__Kotlin_-task-build-tmp.main" target="11" />
+      <module name="search_engine.Simple_Search_Engine__Kotlin_-task.main" target="11" />
+      <module name="search_engine.Topics-Linear_search-Choose_the_right_answers,_please.main" target="11" />
+      <module name="search_engine.Topics-Linear_search-Element_is_in_the_array.main" target="11" />
+      <module name="search_engine.Topics-Linear_search-How_many_repetitions.main" target="11" />
+      <module name="search_engine.Topics-Linear_search-Searching_for_an_array_in_an_array.main" target="11" />
+      <module name="search_engine.Topics-Linear_search-Statements.main" target="11" />
+      <module name="search_engine.Topics-Linear_search-Theory.main" target="11" />
+      <module name="search_engine.Topics-Nested_and_inner_classes-Clothing_problem.main" target="11" />
+      <module name="search_engine.Topics-Nested_and_inner_classes-Improve_your_vehicle.main" target="11" />
+      <module name="search_engine.Topics-Nested_and_inner_classes-Nested_or_inner.main" target="11" />
+      <module name="search_engine.Topics-Nested_and_inner_classes-Theory.main" target="11" />
+      <module name="search_engine.Topics-Nested_and_inner_classes-Your_vehicle.main" target="11" />
+      <module name="search_engine.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
