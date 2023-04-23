@@ -1,5 +1,3 @@
-package search
-
 enum class Strategies {
     ALL,
     ANY,
