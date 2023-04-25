@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Tasklist/task" />
+            <option value="$PROJECT_DIR$/Tasklist/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Tasklist/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Tasklist/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Tasklist/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Analogue of companion object" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Fix me" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Singleton vs Companion Object" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Usage" />
+            <option value="$PROJECT_DIR$/Topics/Destructuring declarations/Fix a bug" />
+            <option value="$PROJECT_DIR$/Topics/Destructuring declarations/Pretty output" />
+            <option value="$PROJECT_DIR$/Topics/Destructuring declarations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lazy initialization/Cat" />
+            <option value="$PROJECT_DIR$/Topics/Lazy initialization/Initialized" />
+            <option value="$PROJECT_DIR$/Topics/Lazy initialization/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lazy initialization/Val vs Var" />
+            <option value="$PROJECT_DIR$/Topics/When expression/FTN-Numbers" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Harry Potter" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Just checking" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Shape" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Strings as objects" />
+            <option value="$PROJECT_DIR$/Topics/When expression/The army of units" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Correct operations" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Last symbol" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Name Card" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/The number of tens" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
