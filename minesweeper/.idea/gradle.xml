@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Minesweeper (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections  part 2/Hacking the Matrix" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections  part 2/Harry and the Spell Power" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections  part 2/The right result of an aggregate function" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections  part 2/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections  part 2/Which definition is correct" />
+            <option value="$PROJECT_DIR$/Topics/Collection transformations/Capitalize the words" />
+            <option value="$PROJECT_DIR$/Topics/Collection transformations/Harry and the Spell Power" />
+            <option value="$PROJECT_DIR$/Topics/Collection transformations/Select functions and results" />
+            <option value="$PROJECT_DIR$/Topics/Collection transformations/The Empire strikes back" />
+            <option value="$PROJECT_DIR$/Topics/Collection transformations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom sort order for collection/List of students" />
+            <option value="$PROJECT_DIR$/Topics/Custom sort order for collection/Match functions and results" />
+            <option value="$PROJECT_DIR$/Topics/Custom sort order for collection/Order your scores" />
+            <option value="$PROJECT_DIR$/Topics/Custom sort order for collection/The right result of ordering is" />
+            <option value="$PROJECT_DIR$/Topics/Custom sort order for collection/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Comparing sums" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Get last digit" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/How to declare a function" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Return type" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/The square of a number" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Declare an extension function" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Definition" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Delegation" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Filtering elements in collection/A long time ago in a galaxy far, far away" />
+            <option value="$PROJECT_DIR$/Topics/Filtering elements in collection/A palindrome list" />
+            <option value="$PROJECT_DIR$/Topics/Filtering elements in collection/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Filtering elements in collection/Which definition is correct" />
+            <option value="$PROJECT_DIR$/Topics/Fold and reduce on collections/Harry and the Spell Power" />
+            <option value="$PROJECT_DIR$/Topics/Fold and reduce on collections/Need to get ahead of the function" />
+            <option value="$PROJECT_DIR$/Topics/Fold and reduce on collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Fold and reduce on collections/Which definition is correct" />
+            <option value="$PROJECT_DIR$/Topics/Function references/Manipulating with numbers" />
+            <option value="$PROJECT_DIR$/Topics/Function references/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collections/Hacking the Matrix" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collections/Harry and the Spell Power" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collections/List of students" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collections/The result of your scores" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Infix functions/Divisibility test" />
+            <option value="$PROJECT_DIR$/Topics/Infix functions/List of students' grades" />
+            <option value="$PROJECT_DIR$/Topics/Infix functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inline functions and reified types in Kotlin/Search for a car by brand" />
+            <option value="$PROJECT_DIR$/Topics/Inline functions and reified types in Kotlin/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda with receiver/Creating a Tag Builder" />
+            <option value="$PROJECT_DIR$/Topics/Lambda with receiver/Test if a number is divisible" />
+            <option value="$PROJECT_DIR$/Topics/Lambda with receiver/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Operator overloading/Division operator" />
+            <option value="$PROJECT_DIR$/Topics/Operator overloading/Secret code to save the the world" />
+            <option value="$PROJECT_DIR$/Topics/Operator overloading/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Application" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Find a keyword" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/I like Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Identifier" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Multiple statements" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Your name" />
+            <option value="$PROJECT_DIR$/Topics/Parameterized test/Argument sources" />
+            <option value="$PROJECT_DIR$/Topics/Parameterized test/Methods as sources" />
+            <option value="$PROJECT_DIR$/Topics/Parameterized test/Palindromes" />
+            <option value="$PROJECT_DIR$/Topics/Parameterized test/Parameters" />
+            <option value="$PROJECT_DIR$/Topics/Parameterized test/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Compression algorithm" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Convert a date" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value (1)" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Double characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Generating passwords" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Increment in loop" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Maximum element divisible by 4" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Repeat by value" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Size of parts" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Retrieve collection parts/Application" />
+            <option value="$PROJECT_DIR$/Topics/Retrieve collection parts/Hacking the Matrix" />
+            <option value="$PROJECT_DIR$/Topics/Retrieve collection parts/List of students' grades" />
+            <option value="$PROJECT_DIR$/Topics/Retrieve collection parts/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Retrieve collection parts/Which definition is correct" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  apply and also/All scope functions" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  apply and also/Map of buttons" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  apply and also/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  let, run, and with/Chain of functions" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  let, run, and with/Filter and match lists" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  let, run, and with/Organize your code" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  let, run, and with/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  summary/Dead Man’s Bones" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  summary/End of Drive" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  summary/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Sealed class and interface/Primary constructor" />
+            <option value="$PROJECT_DIR$/Topics/Sealed class and interface/Sealed classes and packages" />
+            <option value="$PROJECT_DIR$/Topics/Sealed class and interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Sealed class and interface/Visibility for the constructor" />
+            <option value="$PROJECT_DIR$/Topics/Sequences/Hacking the Matrix" />
+            <option value="$PROJECT_DIR$/Topics/Sequences/Match functions and results" />
+            <option value="$PROJECT_DIR$/Topics/Sequences/Palindrome test" />
+            <option value="$PROJECT_DIR$/Topics/Sequences/The Empire strikes back" />
+            <option value="$PROJECT_DIR$/Topics/Sequences/The right result of the function" />
+            <option value="$PROJECT_DIR$/Topics/Sequences/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Exception into a variable" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Handle string exception" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Practice" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/The purpose of exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Too big for us" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Balance checker" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Bank interest calculation" />
+            <option value="$PROJECT_DIR$/Topics/While loops/The length of the sequence" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Theory" />
+            <option value="$PROJECT_DIR$/Topics/While loops/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/hashCode and equals/Inheritance" />
+            <option value="$PROJECT_DIR$/Topics/hashCode and equals/Palindrome test" />
+            <option value="$PROJECT_DIR$/Topics/hashCode and equals/The Empire strikes back" />
+            <option value="$PROJECT_DIR$/Topics/hashCode and equals/Theory" />
+            <option value="$PROJECT_DIR$/Topics/hashCode and equals/User Information" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
